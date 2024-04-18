@@ -1,2 +1,2 @@
-# detinterp
-R package for deterministic spatial interpolation
+# Despoina
+**De**terministic **sp**atial **in**terpolation in Rust
